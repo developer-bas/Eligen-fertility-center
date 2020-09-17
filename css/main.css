@@ -17,6 +17,25 @@
     height: 100vh;
 }
 
+.divisor-section {
+    background-color: rgb(58 , 81, 95);
+    color: rgb(143 , 201, 222);
+    padding-top: 2%;
+    font-size: 47px;
+    text-align: center;
+    padding-bottom: 2%;
+}
+.solution-divisor{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+
+
 .carousel-caption{
     padding-bottom: 250px;
     font-family: poppins;
@@ -104,6 +123,7 @@ h2{
     
 }
 
+
 .card-body-t2{
     background-color: #fff;
     /* min-height: 800px; */
@@ -112,11 +132,11 @@ h2{
 /* .container{
     margin-top: 10%;
 } */
-.card{
+.card-2{
     position: relative;
     overflow: hidden;
 }
-.card:before{
+.card-2:before{
     position: absolute;
     content: '';
     width: 80%;
@@ -132,10 +152,10 @@ h2{
 }
 
 
-.card:hover:before{
+.card-2:hover:before{
     left: 10%;
 }
-.card img{
+.card-2 img{
     width: 100%;
     height: auto;
 }
@@ -154,7 +174,7 @@ h2{
 
 }
 
-.card:hover .card-text{
+.card-2:hover .card-text{
     top: 80px;
 
 }
@@ -228,13 +248,7 @@ height: 100%;
 width: 100%;
 }
 
-.model-title{
-    color: rgb(29, 112, 131);
-    padding-top: 10%;
-    font-size: 40px;
-    text-align: center;
-    padding-bottom: 5%;
-}
+
 
 .model-container{
     background-color: rgb(245, 245, 246);
@@ -244,3 +258,41 @@ width: 100%;
     padding-top: 30px;
 }
 
+
+/*
+Family model  section
+*/
+
+.model-title{
+    color: rgb(32, 62, 77);
+    padding-top: 10%;
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+
+
+.familyModelClass{
+    background-color: rgb(122, 187, 198);
+}
+
+/*
+Contact Section
+*/
+
+.contact-section{
+ color: rgb(23, 94, 113);
+}
+
+/* Selection-section */
+
+.select-solution{
+    background-color: rgb(182, 218, 225);
+
+}
+.select-solution h1{
+    padding-top: 40px;
+    color: rgb(25, 93, 112);
+    padding-bottom: 40px;
+}
