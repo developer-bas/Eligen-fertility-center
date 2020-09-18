@@ -1,7 +1,7 @@
-.navbar {
+/* .navbar {
     box-shadow: 2px 2p 5px #000;
-    opacity: .9;
-}
+   // opacity: .9;
+} */
 .no-paddign{
     padding: 0;
     margin: 0%;
@@ -19,7 +19,7 @@
 
 .divisor-section {
     background-color: rgb(58 , 81, 95);
-    color: rgb(143 , 201, 222);
+    color: rgb(109 , 203, 224);
     padding-top: 2%;
     font-size: 47px;
     text-align: center;
@@ -81,8 +81,10 @@ a:hover{
 h2{
     font-size: 18px;
 }
+
+/* Footer */
 .footer-top{
-    background: #111;
+    background-color: rgb(41, 80, 96);
     padding: 80px;
 }
 
@@ -179,11 +181,38 @@ h2{
 
 }
 
+/* Quienes somos seccion */
+.who-we-are-section{
+    color: rgb(88, 164, 177);
+    padding-top: 2%;
+    padding-right: 6%;
+    padding-left: 6%;
+    font-size: 30px;
+    text-align: left;
+    padding-bottom: 2%;
+
+}
+.who-we-are-section .custom-w-w-a-s{
+    color: rgb(29, 112, 131);
+    font-size: 33px;
+    font-weight: bold;
+}
+
+/* NAVBAR */
+
+.navbar-custom-color{
+    background-color :rgb(41, 80, 96);
+
+ }
+ 
+ .navbar-custom-color a {
+     color: white;
+ }
 
 /* SUB NAVBAR */
 
 .sub-navbar{
-  background-color: rgb(230, 250, 254);
+  background-color: rgb(41, 80, 96);
 
 }
 
@@ -293,6 +322,13 @@ Contact Section
 }
 .select-solution h1{
     padding-top: 40px;
-    color: rgb(25, 93, 112);
+    color: rgb(29, 112, 131);
     padding-bottom: 40px;
+}
+.select-solution h3 {
+    color: rgb(29, 112, 131);
+    padding-top: 10%;
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 5%;
 }
