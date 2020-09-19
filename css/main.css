@@ -33,7 +33,9 @@
     padding-left: 10%;
     padding-bottom: 5%;
 }
-
+.solution-divisor h1{
+    color: rgb(29, 112, 131);
+}
 
 
 .carousel-caption{
