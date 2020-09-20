@@ -342,3 +342,17 @@ Contact Section
     color: rgb(32, 62, 77);
     font-size: 30px;
 }
+
+/* Formulario de contacto */
+.contact-section-form .btnSend{
+
+    background-color: rgb(41, 80, 96);
+    color:  white;
+    align-content: center;
+    text-align: center;
+
+}
+
+.contact-section-form div{
+    padding: 1%;
+}

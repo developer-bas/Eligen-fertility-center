@@ -14,6 +14,6 @@ $carta .= "Telefono : $telefono  \n";
 $carta .=  "Mensaje: $mensaje";
 
 mail($destinatario,$asunto,$carta);
-header('Location:index.html')
+header('Location:index.html');
 
 ?>
