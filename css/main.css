@@ -334,3 +334,11 @@ Contact Section
     text-align: center;
     padding-bottom: 5%;
 }
+
+/* Banners doctors */
+
+.doctor-ban p{
+    padding: 2%;
+    color: rgb(32, 62, 77);
+    font-size: 30px;
+}
