@@ -89,11 +89,16 @@ h2{
 }
 
 /* Footer */
-footer {
+/* footer {
     clear: both;
     position: relative;
     height: 200px;
     margin-top: -200px;
+} */
+footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
 
 .footer-top{
