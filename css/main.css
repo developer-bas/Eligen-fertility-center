@@ -23,7 +23,8 @@
 
 .divisor-section {
     background-color: rgb(58 , 81, 95);
-    color: rgb(109 , 203, 224);
+    color: white;
+    /* rgb(109 , 203, 224); */
     padding-top: 2%;
     font-size: 47px;
     text-align: center;
@@ -103,8 +104,27 @@ footer{
 
 .footer-top{
     background-color: rgb(41, 80, 96);
-    padding: 80px;
+    padding: 12px;
 }
+
+.footer-top h5{
+    padding-top: 20px;
+    padding-bottom: 0;
+    bottom: 0;
+    text-align: center;
+    margin: 0;
+}
+
+.footer-top .padding-top-button{
+    padding-top: 40px;
+}
+
+.footer-top .link {
+    padding: 15px;
+    color: white;
+}
+
+
 
 .portafolio-container img {
     -moz-transition: all 0.8s;
@@ -219,18 +239,20 @@ footer{
 /* NAVBAR */
 
 .navbar-custom-color{
-    background-color :rgb(41, 80, 96);
+    /* background-color :rgb(41, 80, 96); */
+    background-color: white;
 
  }
  
  .navbar-custom-color a {
-     color: white;
+     color: black;
  }
 
 /* SUB NAVBAR */
 
 .sub-navbar{
-  background-color: rgb(41, 80, 96);
+  /* background-color: rgb(41, 80, 96); */
+  background-color: white;
 
 }
 
@@ -272,7 +294,8 @@ flex-wrap: wrap;
 /* REVIEW SECCION  */
 
 .review-title{
-    color: rgb(29, 112, 131);
+    color: white;
+    /* rgb(29, 112, 131); */
     padding-top: 2%;
     font-size: 47px;
     text-align: center;
@@ -311,7 +334,8 @@ Family model  section
 */
 
 .model-title{
-    color: rgb(32, 62, 77);
+    /* color: rgb(32, 62, 77); */
+    color: white;
     padding-top: 10%;
     font-size: 50px;
     text-align: center;
