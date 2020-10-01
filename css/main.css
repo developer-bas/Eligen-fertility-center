@@ -42,10 +42,47 @@
     color: rgb(29, 112, 131);
 }
 
+.solution-divisor-2 h1{
+    color: rgb(29, 112, 131);
+}
+
 .solution-divisor h2{
     font-size: 45px;
     color: rgb(58 , 81, 95);
 }
+
+.solution-divisor-2 h2{
+    font-size: 45px;
+    color: rgb(58 , 81, 95);
+}
+
+.solution-divisor-2 .button{
+    /* display: flex; 
+    justify-content: center; */
+    background-color: rgb(32, 62, 77);
+    color: white;
+    padding: 2px;
+    /* width: 70%; */
+   
+}
+
+
+.solution-divisor-2{
+    /* background: url(../img/solucion\ parati.jpg);
+    background-size: 300px 100px, cover; */
+
+    /* font-size: 50px; */
+    text-align: center;
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+
+
+
+
 
 
 .carousel-caption{
