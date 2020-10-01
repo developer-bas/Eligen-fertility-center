@@ -62,14 +62,18 @@ a:hover{
 /* Doctors containers design */
 .p-foo{
     color: #000;
-    line-height: 35px;
-    padding: 30px;
+    line-height: 27px;
+    padding: 1px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 20px ;
 }
 
 .p-foo2{
     color: #fff;
     line-height: 35px;
     padding: 30px;
+    
 }
 
 .doc-btn-p{
