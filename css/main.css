@@ -125,6 +125,7 @@ a:hover{
     padding-top: 28%;
     font-size: 46px;
     text-align: center;
+    padding-bottom: 25px;
    }
 
 
@@ -230,6 +231,22 @@ footer{
 .card-body-t2{
     background-color: #fff;
     /* min-height: 800px; */
+}
+
+.card-body-t2 p{
+    text-align: justify;
+    padding: 0;
+    margin-bottom: 0;
+    padding-left: 20px;
+    padding-right: 18px;
+}
+
+.card-body-t p{
+    text-align: justify;
+    padding: 0;
+    margin-bottom: 0;
+    padding-left: 20px;
+    padding-right: 18px;
 }
 
 /* .container{
